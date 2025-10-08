@@ -26,7 +26,7 @@ I believe hardware innovation moves too slowly. While software teams ship daily,
 - **Multiple founder** (AI healthcare, SaaS, IoT hardware, renewable energy)
 - **Full-stack builder** from embedded firmware to cloud infrastructure
 - **AI systems architect** with focus on domain-specific LLM applications
-- **Atlanta → Brooklyn** entrepreneur building in the deep tech space
+- **Abidjan → Paris → Wroclaw → Shenzhen → Atlanta → Brooklyn** entrepreneur building in the deep tech space
 
 ---
 
@@ -163,37 +163,17 @@ Real-time speech-to-documentation pipeline:
 ## 💼 Professional Experience
 
 ### Founder & CEO | ProductFlo (Wearer Lab)
-**2021 – Present | Brooklyn, NY**
+**2023 – Present | Brooklyn, NY**
 - Built AI-powered engineering workspace for hardware teams from zero to first customers
 - Developed Haitch: 7B-parameter AI model for hardware engineering
 - Raised seed funding and assembled cross-functional team
 - Established partnerships with hardware accelerators and manufacturing networks
 
-### Founder & Product Lead | NextNotes
-**2022 – Present | Remote**
-- Created ambient AI assistant for clinical documentation
-- Achieved product-market fit with multiple clinic deployments
-- Built real-time AI pipeline processing thousands of patient encounters
-- Reduced clinician documentation time by 60%+
-
-### Founder & Technical Lead | Persa Inc.
-**2019 – 2022 | Atlanta, GA**
-- Founded and scaled SaaS platform to $10K MRR
-- Built full-stack marketing and analytics suite for eCommerce
-- Managed team of engineers and grew customer base across North America
-- Successfully exited after achieving sustainable growth
-
 ### R&D Product Engineer | Presso
-**2020 – 2021 | New York, NY**
+**2019 – 2023 | Shenzhen, CN →, Atlanta, GA**
 - Developed robotic garment cleaning system
 - Led mechanical design and embedded systems integration
 - Optimized manufacturing processes for cost reduction
-
-### Hardware Product Engineer | ADI Solar Energy
-**2018 – 2019 | West Africa**
-- Deployed 3,000+ solar IoT sensors for agricultural optimization
-- Reduced energy waste by 40% for rural farms
-- Managed supply chain and manufacturing partnerships
 
 ---
 
